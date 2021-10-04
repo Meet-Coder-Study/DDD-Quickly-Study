@@ -9,6 +9,13 @@
 - 일정 : 2021. 08. 02(월) ~ 2021. 08. 16(월) - 총 3주
 - 매주 수요일 20시에 zoom으로 진행합니다.
 
+## 📒 발표자료
+Chapter | 발표 자료
+:---: | :---:
+1장 - 2장 | [유효정](https://github.com/Meet-Coder-Study/DDD-Quickly-Study/blob/main/%5B%E1%84%92%E1%85%AD%E1%84%8C%E1%85%A5%E1%86%BC%5D_1%E1%84%8C%E1%85%A1%E1%86%BC~2%E1%84%8C%E1%85%A1%E1%86%BC.pdf) / [김세윤](https://github.com/Meet-Coder-Study/DDD-Quickly-Study/blob/main/%5B%EC%84%B8%EC%9C%A4%5D_1%EC%9E%A5-2%EC%9E%A5.md) / [조수진](https://github.com/Meet-Coder-Study/DDD-Quickly-Study/blob/main/%5B%EC%88%98%EC%A7%84%5D_1%EC%9E%A5-2%EC%9E%A5.md) / [김재준](https://github.com/Meet-Coder-Study/DDD-Quickly-Study/blob/main/%5B%EC%9E%AC%EC%A4%80%5D_1%EC%9E%A5-2%EC%9E%A5.md) / [김혜인](https://github.com/Meet-Coder-Study/DDD-Quickly-Study/blob/main/%5B%ED%98%9C%EC%9D%B8%5D_1%EC%9E%A5-2%EC%9E%A5.md)
+3장 - 4장 | [유효정](https://github.com/Meet-Coder-Study/DDD-Quickly-Study/blob/main/%5B%E1%84%92%E1%85%AD%E1%84%8C%E1%85%A5%E1%86%BC%5D_3%E1%84%8C%E1%85%A1%E1%86%BC~4%E1%84%8C%E1%85%A1%E1%86%BC.pdf) / [조수진](https://github.com/Meet-Coder-Study/DDD-Quickly-Study/blob/main/%5B%EC%88%98%EC%A7%84%5D_3%EC%9E%A5-4%EC%9E%A5.md) / [김재준](https://github.com/Meet-Coder-Study/DDD-Quickly-Study/blob/main/%5B%EC%9E%AC%EC%A4%80%5D_3%EC%9E%A5-4%EC%9E%A5.md)
+5장 - 6장 | [유효정](https://github.com/Meet-Coder-Study/DDD-Quickly-Study/blob/main/%5B%ED%9A%A8%EC%A0%95%5D_5%EC%9E%A5~6%EC%9E%A5.md) / [조수진](https://github.com/Meet-Coder-Study/DDD-Quickly-Study/blob/main/%5B%EC%88%98%EC%A7%84%5D_5%EC%9E%A5-6%EC%9E%A5.md) / [김혜인](https://github.com/Meet-Coder-Study/DDD-Quickly-Study/blob/main/%5B%ED%98%9C%EC%9D%B8%5D5%EC%9E%A5-6%EC%9E%A5.md)
+
 ## 🖐 인원 및 진행 일정
 
 - 총 5명
